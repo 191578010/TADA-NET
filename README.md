@@ -1,5 +1,5 @@
 # TADA-NET
 Trace awea dual attention Network
 
-Will be available soon
+The KGRA-DATASET will be released soon.
 
