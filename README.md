@@ -4,6 +4,7 @@ Trace awea dual attention Network
 The KGRA-DATASET will be released soon.
 
 Some CG images in KGRA:
+
 ![ee45](https://user-images.githubusercontent.com/26302908/173549227-728f9631-f79d-49b3-a88e-5aa9f4221073.JPG)
 ![ee47](https://user-images.githubusercontent.com/26302908/173549251-0194a80b-2e42-4593-97c2-b4e28a037c31.JPG)
 ![ee42](https://user-images.githubusercontent.com/26302908/173549264-20abfdb2-0fea-45cc-8136-25a52ea62608.JPG)
@@ -16,6 +17,7 @@ Some CG images in KGRA:
 
 
 Some PG images in KGRA:
+
 ![PG 15](https://user-images.githubusercontent.com/26302908/173550360-217789dd-513e-4182-967f-8d365dc6957d.JPG)
 ![PG 27](https://user-images.githubusercontent.com/26302908/173550364-78b326a8-7c52-45a0-ad66-e0dc435d0c64.JPG)
 ![PG 28](https://user-images.githubusercontent.com/26302908/173550373-01d06946-42ad-44b1-a0de-631463dadcdf.JPG)
