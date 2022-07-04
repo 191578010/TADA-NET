@@ -1,9 +1,9 @@
 # TADA-NET
 Trace awea dual attention Network
 
-The KGRA-DATASET will be released soon.
+Our source code and The KGRA-DATASET will be released soon.
 
-Some CG images in KGRA:
+Some CG images in KGRA dataset:
 
 ![ee45](https://user-images.githubusercontent.com/26302908/173549227-728f9631-f79d-49b3-a88e-5aa9f4221073.JPG)
 ![ee47](https://user-images.githubusercontent.com/26302908/173549251-0194a80b-2e42-4593-97c2-b4e28a037c31.JPG)
@@ -16,7 +16,7 @@ Some CG images in KGRA:
 ![gg39](https://user-images.githubusercontent.com/26302908/173550000-1ffedcc2-72db-4774-903f-3181d1c6a003.JPG)
 
 
-Some PG images in KGRA:
+Some PG images in KGRA dataset:
 
 ![PG 15](https://user-images.githubusercontent.com/26302908/173550360-217789dd-513e-4182-967f-8d365dc6957d.JPG)
 ![PG 27](https://user-images.githubusercontent.com/26302908/173550364-78b326a8-7c52-45a0-ad66-e0dc435d0c64.JPG)
