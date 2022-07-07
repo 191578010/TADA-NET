@@ -1,5 +1,5 @@
 # TADA-NET
-<Joint Learning high frequency and deep edge contents for CG images detection>
+Joint Learning high frequency and deep edge contents for CG images detection
 Trace awea dual attention Network
 
 Our source code and The KGRA-DATASET will be released soon.
